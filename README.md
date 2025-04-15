@@ -5,15 +5,15 @@ A modern, Gen Z-focused fintech website prototype that helps users discover thei
 ## Screenshots
 
 ### Landing Page
-![Landing Page](./home-page.png)
+![Landing Page](fintech_intern_assignment/home-page.png)
 *Modern, gradient-based landing page with animated elements and clear call-to-action*
 
 ### Persona Selection
-![Persona Selection](./persona-selection.png)
+![Persona Selection](fintech_intern_assignment/persona-selection.png)
 *Interactive persona selection with beautiful card designs and smooth animations*
 
 ### Chat Interface
-![Chat Interface](./chat-bot.png)
+![Chat Interface](fintech_intern_assignment/chat-bot.png)
 *AI-powered chat interface with persona-specific guidance*
 
 ## Features
