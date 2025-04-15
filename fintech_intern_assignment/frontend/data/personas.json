@@ -1,0 +1,40 @@
+{
+  "personas": [
+    {
+      "id": "innovator",
+      "title": "Innovator",
+      "description": "Forward-thinking, tech-savvy, and always looking for the next big thing.",
+      "icon": "🚀",
+      "color": "from-blue-500 to-cyan-500"
+    },
+    {
+      "id": "traditionalist",
+      "title": "Traditionalist",
+      "description": "Value stability, proven strategies, and long-term growth.",
+      "icon": "🏛️",
+      "color": "from-green-500 to-emerald-500"
+    },
+    {
+      "id": "adventurer",
+      "title": "Adventurer",
+      "description": "Thrill-seeking, high-risk, high-reward investment approach.",
+      "icon": "🏔️",
+      "color": "from-orange-500 to-red-500"
+    },
+    {
+      "id": "athlete",
+      "title": "Athlete",
+      "description": "Disciplined, goal-oriented, and focused on performance metrics.",
+      "icon": "🏆",
+      "color": "from-purple-500 to-pink-500"
+    },
+    {
+      "id": "artist",
+      "title": "Artist",
+      "description": "Creative, intuitive, and looking for unique investment opportunities.",
+      "icon": "🎨",
+      "color": "from-yellow-500 to-amber-500"
+    }
+  ],
+  "selections": []
+} 

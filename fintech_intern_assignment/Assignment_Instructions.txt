@@ -1,0 +1,44 @@
+Fintech Intern Assignment: Building a Prototype Web App
+
+Objective:
+Build a 2-page fintech website prototype targeting Gen Z investors.
+
+Pages to Build:
+1. Landing Page:
+   - Display headline: "Welcome to the Financial Multiverse"
+   - Use a futuristic, Gen Z-inspired design
+   - Responsive layout (desktop + mobile)
+   - Tailwind CSS for styling
+
+2. Persona Selection Page:
+   - User chooses a vibe-based investor archetype:
+     - Innovator
+     - Traditionalist
+     - Adventurer
+     - Athlete
+     - Artist
+   - You can use dropdowns, cards, or buttons
+   - This page should lead to a placeholder section for the AI chatbot/agent
+
+Tech Stack:
+- Frontend: HTML + CSS (Tailwind), Next.js (Node.js)
+- Backend: Node.js API routes in Next.js (for future extension)
+- Database: Supabase + PostgreSQL (just mock the DB with a table for selected personas)
+
+Deliverables:
+- Fully working website (frontend + backend + Supabase setup)
+- At least 1 PNG screenshot of the landing page and persona page
+- Submit the full source code in this structure:
+  /frontend
+  /backend
+  /database
+- Include a README.txt explaining how to run the project
+
+Bonus (not required but appreciated):
+- Add animations/transitions to persona selection
+- Use Tailwind components effectively for a clean UI
+
+Deadline:
+- Submit your code and screenshots by [Insert Deadline].
+
+Good luck!
